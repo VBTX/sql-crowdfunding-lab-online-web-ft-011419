@@ -16,4 +16,4 @@ CREATE TABLE user (
 CREATE TABLE pledge (
   id INTEGER PRIMARY KEY,
   amount INTEGER
-)
+);
